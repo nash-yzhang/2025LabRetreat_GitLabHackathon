@@ -5,7 +5,6 @@ import matplotlib.pyplot as plt
 
 plt.style.use('default')
 %matplotlib tk
-
 #%% Define Functions
 def segment_trials(data: pd.DataFrame) -> list:
     """
